@@ -15,10 +15,13 @@ Su Fórmula:
 dT/dt = k(T - Tm)
 
 Modelo de Newton - 11/10/2021
+
 [![11.png](https://i.postimg.cc/5tkMxprN/11.png)](https://postimg.cc/NyTnD8YW)
 
 Modelo de Newton - 11/10/2021
+
 [![12.png](https://i.postimg.cc/XN50bfk4/12.png)](https://postimg.cc/w39r5srG)
 
 Modelo de Newton - 13/10/2021
+
 [![13.png](https://i.postimg.cc/vmTpSfmR/13.png)](https://postimg.cc/HJGZrJ53)
